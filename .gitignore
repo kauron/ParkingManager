@@ -1,0 +1,6 @@
+*.bluej
+*.class
+*.ctxt
+*.ini
+./doc
+README.TXT
